@@ -29,6 +29,7 @@ Este proyecto demuestra competencias clave en ciencia de datos orientadas al apr
 - **pandas**: manipulación y análisis de datos.
 - **seaborn**: visualización de datos.
 - **scikit-learn**: entrenamiento, validación y evaluación de modelos de machine learning.
+- **Métodos clave**: `.train_test_split()`, `.RandomForestClassifier()`, `.fit()`, `.predict()`, `.score()`, `.accuracy_score()`.
 
 ---
 
